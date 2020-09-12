@@ -3217,6 +3217,10 @@
     "imdb_id": "tt2336252",
     "title": "Psychic Force"
   },
+  "919": {
+    "imdb_id": "tt0102587",
+    "title": "Only Yesterday"
+  },
   "923": {
     "imdb_id": "tt0291350",
     "title": "Millennium Actress"
@@ -6157,6 +6161,10 @@
     "fromSeason": 1,
     "fromEpisode": 13
   },
+  "6000": {
+    "imdb_id": "tt1798188",
+    "title": "From Up on Poppy Hill"
+  },
   "6001": {
     "imdb_id": "tt1738419",
     "title": "Bakuman.",
@@ -8910,10 +8918,6 @@
     "imdb_id": "tt4054952",
     "title": "Fate/Stay Night: Heaven's Feel - I. Presage Flower"
   },
-  "8684": {
-    "imdb_id": "tt4307880",
-    "title": "Digimon Adventure Tri. 1: Reunion"
-  },
   "8697": {
     "imdb_id": "tt3950092",
     "title": "Wolf Girl and Black Prince",
@@ -10507,6 +10511,10 @@
     "fromSeason": 0,
     "fromEpisode": 8
   },
+  "8684": {
+    "imdb_id": "tt4307880",
+    "title": "Digimon Adventure Tri. 1: Reunion"
+  },
   "11546": {
     "imdb_id": "tt5216534",
     "title": "Digimon Adventure Tri. 2: Decision"
@@ -11172,11 +11180,19 @@
     "imdb_id": "tt6425816",
     "title": "One Piece: Heart of Gold"
   },
+  "42061": {
+    "imdb_id": "tt9430698",
+    "title": "One Piece: Stampede"
+  },
   "12230": {
     "imdb_id": "tt7078180",
     "title": "Violet Evergarden",
     "fromSeason": 1,
     "fromEpisode": 1
+  },
+  "42340": {
+    "imdb_id": "tt10477558",
+    "title": "Violet Evergarden: Eternity and the Auto Memories Doll"
   },
   "12233": {
     "imdb_id": "tt7058854",
@@ -12872,6 +12888,10 @@
     "imdb_id": "tt7745068",
     "title": "My Hero Academia: Two Heroes"
   },
+  "42205": {
+    "imdb_id": "tt11107074",
+    "title": "My Hero Academia: Heroes Rising"
+  },
   "14090": {
     "imdb_id": "tt8948304",
     "title": "Yuuna and the Haunted Hot Springs",
@@ -14520,5 +14540,29 @@
   "42204": {
     "imdb_id": "tt11151982",
     "title": "Goblin Slayer: Goblin's Crown"
+  },
+  "42117": {
+    "imdb_id": "tt11328872",
+    "title": "In/Spectre",
+    "fromSeason": 1,
+    "fromEpisode": 1
+  },
+  "42615": {
+    "imdb_id": "tt12031040",
+    "title": "Japan Sinks: 2020",
+    "fromSeason": 1,
+    "fromEpisode": 1
+  },
+  "43062": {
+    "imdb_id": "tt12080774",
+    "title": "Bungou to Alchemist: Shinpan no Haguruma",
+    "fromSeason": 1,
+    "fromEpisode": 1
+  },
+  "43115": {
+    "imdb_id": "tt12156162",
+    "title": "Zashiki-Warashi no Tatami-chan",
+    "fromSeason": 1,
+    "fromEpisode": 1
   }
 }
